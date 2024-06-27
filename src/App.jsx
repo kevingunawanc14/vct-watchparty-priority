@@ -1,10 +1,5 @@
-import { useState, forwardRef } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import { useState } from "react";
 import "./App.css";
-import { AiOutlineFire } from "react-icons/ai";
-import { GiLaurelsTrophy } from "react-icons/gi";
-import { IoWater } from "react-icons/io5";
 import { AiFillFire } from "react-icons/ai";
 import { PiTelevisionSimpleFill } from "react-icons/pi";
 import { DragDropContext, Draggable, Droppable } from "@hello-pangea/dnd";
